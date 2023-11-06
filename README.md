@@ -43,4 +43,4 @@
 
 ![img_3.png](IMG/img_3.png)
 
-9. 
+9. Подготовил README.md-файл по своему playbook. Ссылка: 
