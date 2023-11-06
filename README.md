@@ -6,7 +6,7 @@
 
 1. Для выполнения ДЗ создал 3 виртуальные машины в Yandex.Cloud с использованием Terraform.
 
-Код Terraform доступен по ссылке: 
+Код Terraform доступен по ссылке: https://github.com/DemoniumBlack/fedorchukds-devops-33-18/tree/main/SRC/terraform
 
 ## Основная часть
 
@@ -43,4 +43,4 @@
 
 ![img_3.png](IMG/img_3.png)
 
-9. Подготовил README.md-файл по своему playbook. Ссылка: 
+9. Подготовил README.md-файл по своему playbook. Ссылка: https://github.com/DemoniumBlack/fedorchukds-devops-33-18/blob/main/SRC/playbook/README.md
